@@ -17,8 +17,20 @@ This summer I have enrolled in the following classes to help build my foundation
     <li>Fib</li>
     <li>SuperArray</li>
     <li>Nim</li>
+</ol>
 
-
-    </ol>
     <br> <h1> - Data Structrues </h1>
+    <h4>Background:</h4>
+    In this course we are learning about different data structures that include:
+       <ul>
+       <li>Linked List</li>
+       <li>Knights Tour</li>
+        <li>Maze Code</li>
+         <li>Sorted</li>
+          <li>Trees</li>'
+          
+       </ul>
+    
      <br><h1> - Methods I </h1>
+     <h4>Background:</h4>
+     
