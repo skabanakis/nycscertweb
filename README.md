@@ -1,6 +1,6 @@
-<!doctype HTML>
+
 <html>
-    <head><title># nycscertweb</title></head>
+    <head></head>
 
 <body>
     <h1><strong>About me</strong> </h1>
