@@ -12,6 +12,13 @@ This summer I have enrolled in the following classes to help build my foundation
     <br>
     <ol>
     <li>Nim</li>
+    <li>Mancala</li>
+    <li>TwoDimArray</li>
+    <li>Fib</li>
+    <li>SuperArray</li>
+    <li>Nim</li>
+
+
     </ol>
     <br> <h1> - Data Structrues </h1>
      <br><h1> - Methods I </h1>
