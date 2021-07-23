@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!doctype HTML>
 <html>
     <head><title># nycscertweb</title></head>
 
 <body>
-    <h1>About me </h1>
+    <h1><strong>About me</strong> </h1>
     Hi, My name is Stephannia Kabanakis!
 
 I am a current teacher at Mineola High School. 
