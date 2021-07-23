@@ -1,6 +1,10 @@
-# nycscertweb
-<h1>About me </h1>
-Hi, My name is Stephannia Kabanakis!
+<!DOCTYPE html>
+<html>
+    <head><title># nycscertweb</title></head>
+
+<body>
+    <h1>About me </h1>
+    Hi, My name is Stephannia Kabanakis!
 
 I am a current teacher at Mineola High School. 
 
@@ -30,4 +34,6 @@ This summer I have enrolled in the following classes to help build my foundation
        </ul>
      <br><h1> - Methods I </h1>
      <h4>Background:</h4>
+    </body>
+    </html>
      
