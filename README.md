@@ -20,7 +20,7 @@ This summer I have enrolled in the following classes to help build my foundation
     <li>TwoDimArray</li>
     <li>Fib</li>
     <li>SuperArray</li>
-    <li>Nim</li>
+    
 </ol>
     <br> <h1> - Data Structrues </h1>
     <h4>Background:</h4>
@@ -30,10 +30,14 @@ This summer I have enrolled in the following classes to help build my foundation
        <li>Knights Tour</li>
         <li>Maze Code</li>
          <li>Sorted</li>
-          <li>Trees</li>'    
+          <li>Binary Trees</li>
+           <li>Queue</li> 
+           <li>Double Link List</li>
+           
+           
        </ul>
      <br><h1> - Methods I </h1>
-     <h4>Background:</h4>
+     <h4>Background:</h4> In this course we learned different types if methods and way to implement them into our classrooms. We learned about different sources that are avaialble to us and how to trouble shoot them. In addition to effective ways to implement them.
     </body>
     </html>
      
